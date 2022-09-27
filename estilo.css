@@ -524,5 +524,9 @@ main .logo2{
     left: -50px;
     bottom: -80px;
 }
-
+main .derechos{
+    position: relative;
+    top: 120px;
+    left: 45%;
+}
 /*otro estilo mas chido*/
